@@ -1,2 +1,2 @@
 # rexs.io
-blog homepage
+rexs blog
